@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">parking</string>
+    <string name="slot_1_status">Slot 1 Status</string>
+    <string name="slot_3_status">Slot 3 Status</string>
+    <string name="slot_2_status">Slot 2 Status</string>
+</resources>
